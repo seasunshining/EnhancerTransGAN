@@ -7,7 +7,7 @@ This repository contains two related models for enhancer sequence tasks:
 - **Self-Attention Mechanism**: Captures local sequence motifs and global regulatory dependencies
 - **Tissue-Specific Modeling**: Independent model training for 47 human tissue types
 - **High-Quality Sequence Generation**: Preserves statistical and biological features of natural enhancers
-### 🎯 预测模型性能
+### 🎯 Predictive Model Performance
 - **DNABERT2 Fine-Tuning**: Enhancer activity prediction based on the pre-trained DNABERT-2 model
 - **Epigenetic Integration**: Incorporates modification signals such as H3K27ac and H3K4me1
 - **MPRA Data Validation**: Integrates large-scale massively parallel reporter assay datasets
