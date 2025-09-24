@@ -1,5 +1,5 @@
-# EnhancerTransGAN
-
+# Enhancer Sequence Generation and Strength Prediction
+![Model Performance Graph](work/graph.png)
 ## 📖 Core Features
 This repository contains two related models for enhancer sequence tasks:
 ### 🧬 Generative Model Architecture
